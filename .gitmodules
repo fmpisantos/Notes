@@ -1,0 +1,3 @@
+[submodule "PersonalNotes"]
+	path = PersonalNotes
+	url = git@github.com:fmpisantos/PersonalNotes.git

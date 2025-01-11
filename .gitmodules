@@ -1,3 +1,6 @@
 [submodule "PersonalNotes"]
 	path = PersonalNotes
 	url = git@github.com:fmpisantos/PersonalNotes.git
+[submodule "SIHOTNotes"]
+	path = SIHOTNotes
+	url = git@github.com:fmpisantos/SIHOTNotes.git
